@@ -23,7 +23,20 @@ The code was tested on Ubuntu 20.04 with Anaconda, pytorch3.6, CUDA11.1.
 
 ## Dependencies
 
-requirements.txt
+* Install dependencies
+
+  ::
+
+    pip install -r requirements.txt
+Building only the CUDA kernels
+----------------------------------
+
+
+::
+
+  pip install pointnet2_ops_lib/.
+
+  # Or if you would like to install them directly (this can also be used in a requirements.txt)
 
 
 
