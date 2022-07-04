@@ -1,0 +1,840 @@
+/data/
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.56326.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.56492.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.57913.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.58592.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.59498.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.59960.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.62024.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.62065.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.63356.pth
+/examples/s3dis/results/addcbl/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-09-10-24-21/state_dict0.64682.pth
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_2/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_2/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_3/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/conferenceRoom_3/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_2/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_2/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_3/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_3/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_4/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_4/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_5/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_5/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_6/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_6/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_7/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_7/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_8/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_8/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_9/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_9/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_10/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_10/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_11/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_11/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_12/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_12/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_13/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_13/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_14/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_14/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_15/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/hallway_15/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/lobby_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/lobby_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_2/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_2/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_3/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_3/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_4/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_4/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_4/vis.mat
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_5/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_5/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_6/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_6/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_7/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_7/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_8/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_8/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_9/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_9/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_10/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_10/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_11/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_11/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_12/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_12/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_13/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_13/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_14/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_14/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_15/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_15/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_16/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_16/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_17/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_17/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_18/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_18/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_19/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_19/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_19/vis.mat
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_20/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_20/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_21/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_21/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_22/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_22/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_23/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_23/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_24/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_24/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_25/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_25/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_26/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_26/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_27/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_27/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_28/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_28/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_29/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_29/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_30/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_30/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_31/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_31/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_31/vis.mat
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_32/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_32/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_32/vis.mat
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_33/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_33/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_34/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_34/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_35/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_35/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_36/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_36/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_37/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_37/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_38/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_38/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_39/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_39/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_40/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_40/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_41/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_41/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_42/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/office_42/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/pantry_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/pantry_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_2/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_2/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_3/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_3/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_4/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/storage_4/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/WC_1/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/WC_1/pts.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/WC_2/pred.txt
+/examples/s3dis/results/addcbl/Trainbatchsize8on3090/Area_5/WC_2/pts.txt
+/examples/s3dis/results/addcbl/Area_5.zip
+/examples/s3dis/results/addcbl/state_dict0.62989.pth
+/examples/s3dis/results/addcbl2/Area_5/conferenceRoom_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/conferenceRoom_2/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/conferenceRoom_3/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_2/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_3/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_4/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_5/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_6/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_7/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_8/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_9/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_10/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_11/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_12/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_13/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_14/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/hallway_15/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/lobby_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_2/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_3/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_4/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_5/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_6/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_7/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_8/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_9/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_10/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_11/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_12/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_13/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_14/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_15/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_16/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_17/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_18/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_19/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_20/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_21/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_22/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_23/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_24/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_25/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_26/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_27/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_28/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_29/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_30/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_31/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_32/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_33/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_34/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_35/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_36/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_37/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_38/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_39/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_40/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_41/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/office_42/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/pantry_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/storage_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/storage_2/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/storage_3/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/storage_4/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/WC_1/pred.txt
+/examples/s3dis/results/addcbl2/Area_5/WC_2/pred.txt
+/examples/s3dis/results/addcbl2/addclb_weight_2Area_5.zip
+/examples/s3dis/results/addcbl2/state_dict0.64682.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-18-55-06/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-18-55-06/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-18-55-06/state_dict0.55395.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-18-55-06/state_dict0.58171.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-18-55-06/state_dict0.58619.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.29553.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.36462.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.39264.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.40849.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.41155.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.44896.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.49927.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.50269.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.51185.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.54223.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.54748.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.58536.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.60289.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.61263.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.62092.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.62124.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.63495.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.64242.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-10-22-45-51/state_dict0.64356.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/state_dict0.28236.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/state_dict0.29718.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/state_dict0.38381.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-11-18-58/state_dict0.39699.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-18-01/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-34-33/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-35-30/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-36-11/B-IoU_tensor(114.0767, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-36-11/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-36-11/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-15-36-11/state_dict0.30612.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/B-IoU_tensor(114.3795, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/B-IoU_tensor(119.5529, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/state_dict0.32426.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-16-10-18/state_dict0.34291.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(122.6877, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(128.0061, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(129.0464, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(129.1950, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(130.1560, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(131.3260, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(132.3125, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(133.0383, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(133.9933, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(134.3454, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(137.0206, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(137.2192, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(138.8972, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(139.7867, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(140.0589, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(140.4584, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(140.8656, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(141.2654, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(142.0128, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(142.1861, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(143.7555, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(145.6820, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(146.7329, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(147.5621, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(147.8608, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(148.5501, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(149.0468, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(149.1299, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(149.9603, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(150.1852, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.0756, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.1542, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.3393, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.3908, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.4213, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.6199, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(151.6715, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(153.2712, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(153.5936, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(153.9865, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(154.0742, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(155.1744, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(155.6546, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/B-IoU_tensor(157.0035, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.38188.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.41091.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.41544.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.45045.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.49143.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.49528.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.54053.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.55717.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.58162.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.59615.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.59634.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-12-17-15-47/state_dict0.60116.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-38-43/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-41-34/log.txt
+/examples/s3dis/results/Area_5/conferenceRoom_1/pred.txt
+/examples/s3dis/results/Area_5/conferenceRoom_1/pts.txt
+/examples/s3dis/results/Area_5/conferenceRoom_1/vis.mat
+/examples/s3dis/results/Area_5/conferenceRoom_2/pred.txt
+/examples/s3dis/results/Area_5/conferenceRoom_2/pts.txt
+/examples/s3dis/results/Area_5/conferenceRoom_2/vis.mat
+/examples/s3dis/results/Area_5/conferenceRoom_3/pred.txt
+/examples/s3dis/results/Area_5/conferenceRoom_3/pts.txt
+/examples/s3dis/results/Area_5/conferenceRoom_3/vis.mat
+/examples/s3dis/results/Area_5/hallway_1/pred.txt
+/examples/s3dis/results/Area_5/hallway_1/pts.txt
+/examples/s3dis/results/Area_5/hallway_1/vis.mat
+/examples/s3dis/results/Area_5/hallway_2/pred.txt
+/examples/s3dis/results/Area_5/hallway_2/pts.txt
+/examples/s3dis/results/Area_5/hallway_2/vis.mat
+/examples/s3dis/results/Area_5/hallway_3/pred.txt
+/examples/s3dis/results/Area_5/hallway_3/pts.txt
+/examples/s3dis/results/Area_5/hallway_3/vis.mat
+/examples/s3dis/results/Area_5/hallway_4/pred.txt
+/examples/s3dis/results/Area_5/hallway_4/pts.txt
+/examples/s3dis/results/Area_5/hallway_4/vis.mat
+/examples/s3dis/results/Area_5/hallway_5/pred.txt
+/examples/s3dis/results/Area_5/hallway_5/pts.txt
+/examples/s3dis/results/Area_5/hallway_5/vis.mat
+/examples/s3dis/results/Area_5/hallway_6/pred.txt
+/examples/s3dis/results/Area_5/hallway_6/pts.txt
+/examples/s3dis/results/Area_5/hallway_6/vis.mat
+/examples/s3dis/results/Area_5/hallway_7/pred.txt
+/examples/s3dis/results/Area_5/hallway_7/pts.txt
+/examples/s3dis/results/Area_5/hallway_7/vis.mat
+/examples/s3dis/results/Area_5/hallway_8/pred.txt
+/examples/s3dis/results/Area_5/hallway_8/pts.txt
+/examples/s3dis/results/Area_5/hallway_8/vis.mat
+/examples/s3dis/results/Area_5/hallway_9/pred.txt
+/examples/s3dis/results/Area_5/hallway_9/pts.txt
+/examples/s3dis/results/Area_5/hallway_9/vis.mat
+/examples/s3dis/results/Area_5/hallway_10/pred.txt
+/examples/s3dis/results/Area_5/hallway_10/pts.txt
+/examples/s3dis/results/Area_5/hallway_10/vis.mat
+/examples/s3dis/results/Area_5/hallway_11/pred.txt
+/examples/s3dis/results/Area_5/hallway_11/pts.txt
+/examples/s3dis/results/Area_5/hallway_11/vis.mat
+/examples/s3dis/results/Area_5/hallway_12/pred.txt
+/examples/s3dis/results/Area_5/hallway_12/pts.txt
+/examples/s3dis/results/Area_5/hallway_12/vis.mat
+/examples/s3dis/results/Area_5/hallway_13/pred.txt
+/examples/s3dis/results/Area_5/hallway_13/pts.txt
+/examples/s3dis/results/Area_5/hallway_13/vis.mat
+/examples/s3dis/results/Area_5/hallway_14/pred.txt
+/examples/s3dis/results/Area_5/hallway_14/pts.txt
+/examples/s3dis/results/Area_5/hallway_14/vis.mat
+/examples/s3dis/results/Area_5/hallway_15/pred.txt
+/examples/s3dis/results/Area_5/hallway_15/pts.txt
+/examples/s3dis/results/Area_5/hallway_15/vis.mat
+/examples/s3dis/results/Area_5/lobby_1/pred.txt
+/examples/s3dis/results/Area_5/lobby_1/pts.txt
+/examples/s3dis/results/Area_5/lobby_1/vis.mat
+/examples/s3dis/results/Area_5/office_1/pred.txt
+/examples/s3dis/results/Area_5/office_1/pts.txt
+/examples/s3dis/results/Area_5/office_1/vis.mat
+/examples/s3dis/results/Area_5/office_2/pred.txt
+/examples/s3dis/results/Area_5/office_2/pts.txt
+/examples/s3dis/results/Area_5/office_2/vis.mat
+/examples/s3dis/results/Area_5/office_3/pred.txt
+/examples/s3dis/results/Area_5/office_3/pts.txt
+/examples/s3dis/results/Area_5/office_3/vis.mat
+/examples/s3dis/results/Area_5/office_4/pred.txt
+/examples/s3dis/results/Area_5/office_4/pts.txt
+/examples/s3dis/results/Area_5/office_4/vis.mat
+/examples/s3dis/results/Area_5/office_5/pred.txt
+/examples/s3dis/results/Area_5/office_5/pts.txt
+/examples/s3dis/results/Area_5/office_5/vis.mat
+/examples/s3dis/results/Area_5/office_6/pred.txt
+/examples/s3dis/results/Area_5/office_6/pts.txt
+/examples/s3dis/results/Area_5/office_6/vis.mat
+/examples/s3dis/results/Area_5/office_7/pred.txt
+/examples/s3dis/results/Area_5/office_7/pts.txt
+/examples/s3dis/results/Area_5/office_7/vis.mat
+/examples/s3dis/results/Area_5/office_8/pred.txt
+/examples/s3dis/results/Area_5/office_8/pts.txt
+/examples/s3dis/results/Area_5/office_8/vis.mat
+/examples/s3dis/results/Area_5/office_9/pred.txt
+/examples/s3dis/results/Area_5/office_9/pts.txt
+/examples/s3dis/results/Area_5/office_9/vis.mat
+/examples/s3dis/results/Area_5/office_10/pred.txt
+/examples/s3dis/results/Area_5/office_10/pts.txt
+/examples/s3dis/results/Area_5/office_10/vis.mat
+/examples/s3dis/results/Area_5/office_11/pred.txt
+/examples/s3dis/results/Area_5/office_11/pts.txt
+/examples/s3dis/results/Area_5/office_11/vis.mat
+/examples/s3dis/results/Area_5/office_12/pred.txt
+/examples/s3dis/results/Area_5/office_12/pts.txt
+/examples/s3dis/results/Area_5/office_12/vis.mat
+/examples/s3dis/results/Area_5/office_13/pred.txt
+/examples/s3dis/results/Area_5/office_13/pts.txt
+/examples/s3dis/results/Area_5/office_13/vis.mat
+/examples/s3dis/results/Area_5/office_14/pred.txt
+/examples/s3dis/results/Area_5/office_14/pts.txt
+/examples/s3dis/results/Area_5/office_14/vis.mat
+/examples/s3dis/results/Area_5/office_15/pred.txt
+/examples/s3dis/results/Area_5/office_15/pts.txt
+/examples/s3dis/results/Area_5/office_15/vis.mat
+/examples/s3dis/results/Area_5/office_16/pred.txt
+/examples/s3dis/results/Area_5/office_16/pts.txt
+/examples/s3dis/results/Area_5/office_16/vis.mat
+/examples/s3dis/results/Area_5/office_17/pred.txt
+/examples/s3dis/results/Area_5/office_17/pts.txt
+/examples/s3dis/results/Area_5/office_17/vis.mat
+/examples/s3dis/results/Area_5/office_18/pred.txt
+/examples/s3dis/results/Area_5/office_18/pts.txt
+/examples/s3dis/results/Area_5/office_18/vis.mat
+/examples/s3dis/results/Area_5/office_19/pred.txt
+/examples/s3dis/results/Area_5/office_19/pts.txt
+/examples/s3dis/results/Area_5/office_19/vis.mat
+/examples/s3dis/results/Area_5/office_20/pred.txt
+/examples/s3dis/results/Area_5/office_20/pts.txt
+/examples/s3dis/results/Area_5/office_20/vis.mat
+/examples/s3dis/results/Area_5/office_21/pred.txt
+/examples/s3dis/results/Area_5/office_21/pts.txt
+/examples/s3dis/results/Area_5/office_21/vis.mat
+/examples/s3dis/results/Area_5/office_22/pred.txt
+/examples/s3dis/results/Area_5/office_22/pts.txt
+/examples/s3dis/results/Area_5/office_22/vis.mat
+/examples/s3dis/results/Area_5/office_23/pred.txt
+/examples/s3dis/results/Area_5/office_23/pts.txt
+/examples/s3dis/results/Area_5/office_23/vis.mat
+/examples/s3dis/results/Area_5/office_24/pred.txt
+/examples/s3dis/results/Area_5/office_24/pts.txt
+/examples/s3dis/results/Area_5/office_24/vis.mat
+/examples/s3dis/results/Area_5/office_25/pred.txt
+/examples/s3dis/results/Area_5/office_25/pts.txt
+/examples/s3dis/results/Area_5/office_25/vis.mat
+/examples/s3dis/results/Area_5/office_26/pred.txt
+/examples/s3dis/results/Area_5/office_26/pts.txt
+/examples/s3dis/results/Area_5/office_26/vis.mat
+/examples/s3dis/results/Area_5/office_27/pred.txt
+/examples/s3dis/results/Area_5/office_27/pts.txt
+/examples/s3dis/results/Area_5/office_27/vis.mat
+/examples/s3dis/results/Area_5/office_28/pred.txt
+/examples/s3dis/results/Area_5/office_28/pts.txt
+/examples/s3dis/results/Area_5/office_28/vis.mat
+/examples/s3dis/results/Area_5/office_29/pred.txt
+/examples/s3dis/results/Area_5/office_29/pts.txt
+/examples/s3dis/results/Area_5/office_29/vis.mat
+/examples/s3dis/results/Area_5/office_30/pred.txt
+/examples/s3dis/results/Area_5/office_30/pts.txt
+/examples/s3dis/results/Area_5/office_30/vis.mat
+/examples/s3dis/results/Area_5/office_31/pred.txt
+/examples/s3dis/results/Area_5/office_31/pts.txt
+/examples/s3dis/results/Area_5/office_31/vis.mat
+/examples/s3dis/results/Area_5/office_32/pred.txt
+/examples/s3dis/results/Area_5/office_32/pts.txt
+/examples/s3dis/results/Area_5/office_32/vis.mat
+/examples/s3dis/results/Area_5/office_33/pred.txt
+/examples/s3dis/results/Area_5/office_33/pts.txt
+/examples/s3dis/results/Area_5/office_33/vis.mat
+/examples/s3dis/results/Area_5/office_34/pred.txt
+/examples/s3dis/results/Area_5/office_34/pts.txt
+/examples/s3dis/results/Area_5/office_34/vis.mat
+/examples/s3dis/results/Area_5/office_35/pred.txt
+/examples/s3dis/results/Area_5/office_35/pts.txt
+/examples/s3dis/results/Area_5/office_35/vis.mat
+/examples/s3dis/results/Area_5/office_36/pred.txt
+/examples/s3dis/results/Area_5/office_36/pts.txt
+/examples/s3dis/results/Area_5/office_36/vis.mat
+/examples/s3dis/results/Area_5/office_37/pred.txt
+/examples/s3dis/results/Area_5/office_37/pts.txt
+/examples/s3dis/results/Area_5/office_37/vis.mat
+/examples/s3dis/results/Area_5/office_38/pred.txt
+/examples/s3dis/results/Area_5/office_38/pts.txt
+/examples/s3dis/results/Area_5/office_38/vis.mat
+/examples/s3dis/results/Area_5/office_39/pred.txt
+/examples/s3dis/results/Area_5/office_39/pts.txt
+/examples/s3dis/results/Area_5/office_39/vis.mat
+/examples/s3dis/results/Area_5/office_40/pred.txt
+/examples/s3dis/results/Area_5/office_40/pts.txt
+/examples/s3dis/results/Area_5/office_40/vis.mat
+/examples/s3dis/results/Area_5/office_41/pred.txt
+/examples/s3dis/results/Area_5/office_41/pts.txt
+/examples/s3dis/results/Area_5/office_41/vis.mat
+/examples/s3dis/results/Area_5/office_42/pred.txt
+/examples/s3dis/results/Area_5/office_42/pts.txt
+/examples/s3dis/results/Area_5/office_42/vis.mat
+/examples/s3dis/results/Area_5/pantry_1/pred.txt
+/examples/s3dis/results/Area_5/pantry_1/pts.txt
+/examples/s3dis/results/Area_5/pantry_1/vis.mat
+/examples/s3dis/results/Area_5/storage_1/pred.txt
+/examples/s3dis/results/Area_5/storage_1/pts.txt
+/examples/s3dis/results/Area_5/storage_1/vis.mat
+/examples/s3dis/results/Area_5/storage_2/pred.txt
+/examples/s3dis/results/Area_5/storage_2/pts.txt
+/examples/s3dis/results/Area_5/storage_2/vis.mat
+/examples/s3dis/results/Area_5/storage_3/pred.txt
+/examples/s3dis/results/Area_5/storage_3/pts.txt
+/examples/s3dis/results/Area_5/storage_3/vis.mat
+/examples/s3dis/results/Area_5/storage_4/pred.txt
+/examples/s3dis/results/Area_5/storage_4/pts.txt
+/examples/s3dis/results/Area_5/storage_4/vis.mat
+/examples/s3dis/results/Area_5/WC_1/pred.txt
+/examples/s3dis/results/Area_5/WC_1/pts.txt
+/examples/s3dis/results/Area_5/WC_1/vis.mat
+/examples/s3dis/results/Area_5/WC_2/pred.txt
+/examples/s3dis/results/Area_5/WC_2/pts.txt
+/examples/s3dis/results/Area_5/WC_2/vis.mat
+/examples/s3dis/results/Area_5/.~DOC 文档.doc
+/examples/s3dis/results/Area_5/DOC 文档.doc
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-16-49-01/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-16-49-01/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-16-49-01/state_dict0.27908.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.23148.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.33551.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.35913.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.37348.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.37819.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.41307.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.41513.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.43619.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.45661.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.45733.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.47679.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.49968.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.50833.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.54098.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.55088.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.55441.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.56998.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.57111.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.57463.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.57705.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.57910.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.58939.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-27-18-19-14/state_dict0.59122.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.26501.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.33862.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.35091.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.35824.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.38178.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.38470.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.39524.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.41673.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.44221.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.45122.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.45288.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.45521.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.50833.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.51369.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.53658.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.55044.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.55695.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/state_dict0.58738.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-00-24-30/不加posblock的.doc
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.22308.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.32021.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.32815.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.35206.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.36055.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.39673.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.40463.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.42425.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.43158.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.43179.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.44469.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.45731.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.47358.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.47723.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.48234.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.50989.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.51223.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.53497.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.53874.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.54145.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.56324.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.59090.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/state_dict0.59431.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-29-22-54-47/没加lpr加了5层posblock的.doc
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/state_dict0.54543.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/state_dict0.58257.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/state_dict0.58401.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/state_dict0.59912.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-04-30-20-56-57/加posblock的.doc
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/log1.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.32588.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.35747.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.38175.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.39996.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.40107.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.42259.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.43508.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.47957.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.49260.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.49631.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.53460.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.57557.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.59873.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.60171.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.60276.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.62153.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.62954.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.63672.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/state_dict0.64623.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-03-17-46-23/直接concat-lpr的.doc
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.33997.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.38209.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.41086.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.41753.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.43820.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.46330.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.47789.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.50503.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.51613.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.52530.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.54953.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.55985.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.58628.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.59086.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.61283.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.61653.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.62511.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.62836.pth
+/examples/s3dis/results/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-06-11-13-02/state_dict0.62989.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/log.txt
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.21239.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.31456.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.33827.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.35545.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.36649.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.40644.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.42161.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.43047.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.43181.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.44449.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.48093.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.49594.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.50080.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.51124.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.52390.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.53889.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.54869.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.55599.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.56137.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.56754.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.57244.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.57591.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/state_dict0.59298.pth
+/examples/s3dis/results/GS_Seg_area5_4096没加lpr的/没加lpr的.doc
+/examples/s3dis/results/state_dict0.62989.pth
+/examples/s3dis/results/state_dict0.64623.pth
+/examples/s3dis/metrics.py
+/examples/s3dis/prepare_s3dis_label.py
+/examples/s3dis/s3dis_eval.py
+/examples/s3dis/s3dis_seg.py
+/examples/s3dis/results/addcbl3/Area_5/conferenceRoom_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/conferenceRoom_2/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/conferenceRoom_3/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_2/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_3/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_4/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_5/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_6/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_7/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_8/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_9/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_10/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_11/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_12/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_13/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_14/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/hallway_15/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/lobby_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_2/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_3/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_4/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_5/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_6/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_7/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_8/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_9/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_10/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_11/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_12/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_13/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_14/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_15/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_16/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_17/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_18/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_19/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_20/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_21/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_22/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_23/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_24/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_25/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_26/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_27/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_28/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_29/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_30/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_31/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_32/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_33/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_34/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_35/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_36/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_37/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_38/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_39/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_40/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_41/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/office_42/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/pantry_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/storage_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/storage_2/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/storage_3/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/storage_4/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/WC_1/pred.txt
+/examples/s3dis/results/addcbl3/Area_5/WC_2/pred.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(93.9808, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(94.8495, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(97.5208, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(101.3782, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(102.8009, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(104.1723, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(104.4252, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(105.7832, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(106.5580, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(107.0540, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(108.4185, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(108.5232, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(109.3431, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(109.5121, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(110.8032, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(110.8197, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(111.0016, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(111.4430, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(111.8448, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(112.5075, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(112.6560, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(113.3208, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.1349, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.2588, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.2645, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.2970, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.4661, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.6387, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.6887, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.7024, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(114.7206, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(115.2604, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(115.4371, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(115.6032, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(115.6175, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(115.9778, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(116.6992, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/B-IoU_tensor(116.8263, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.34132.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.35899.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.37452.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.39844.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.40175.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.43020.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.43680.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.44490.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.44917.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.46051.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.50707.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.51402.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.53353.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.53536.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.54896.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area4_4096_nocolorFalse_drop0_2022-05-15-22-03-58/state_dict0.56559.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/B-IoU_tensor(160.0184, device='cuda:0').pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/log.txt
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.32351.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.34267.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.35771.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.40482.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.41808.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.42725.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.43636.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.46200.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.48353.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.48404.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.51532.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.52077.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.52198.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.57584.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.59212.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.60724.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.62112.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.62185.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.64109.pth
+/examples/s3dis/results/addcbl3/GS_Seg_area5_4096_nocolorFalse_drop0_2022-05-13-15-50-34/state_dict0.65060.pth
+/examples/s3dis/results/addcbl3/state_dict0.65060.pth
+/examples/s3dis/log.txt

@@ -1,0 +1,171 @@
+absl-py==0.15.0
+addict==2.4.0
+anyio==3.5.0
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+asn1crypto==1.2.0
+astor==0.8.1
+astunparse==1.6.3
+async-generator==1.10
+attrs==21.4.0
+Babel==2.9.1
+backcall==0.2.0
+backports.weakref==1.0rc1
+beautifulsoup4==4.8.2
+bleach @ file:///tmp/build/80754af9/bleach_1600439572647/work
+blinker==1.4
+brotlipy==0.7.0
+cached-property==1.5.2
+cachetools==4.2.4
+certifi==2020.12.5
+cffi==1.13.0
+chardet @ file:///tmp/build/80754af9/chardet_1605303175790/work
+charset-normalizer==2.0.12
+clang==5.0
+contextvars==2.4
+coverage @ file:///tmp/build/80754af9/coverage_1614614208500/work
+cryptography==2.8
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+Cython @ file:///tmp/build/80754af9/cython_1626256602391/work
+dataclasses @ file:///tmp/build/80754af9/dataclasses_1614363715916/work
+decorator==5.1.1
+defusedxml==0.7.1
+deprecation==2.1.0
+docutils==0.16
+einops==0.4.1
+entrypoints==0.4
+filelock @ file:///home/linux1/recipes/ci/filelock_1610993975404/work
+flatbuffers==1.12
+future==0.18.2
+gast==0.4.0
+glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio==1.44.0
+h5py==3.1.0
+html5lib==0.9999999
+hydra-core==0.11.3
+idna==2.8
+imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
+immutables==0.16
+importlib-metadata==4.8.3
+ipykernel==5.5.6
+ipython==7.16.3
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.5
+jedi==0.17.2
+Jinja2==3.0.3
+joblib==1.1.0
+json5==0.9.6
+jsonpointer==2.0
+jsonschema==3.2.0
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1616770841739/work
+jupyter-console @ file:///tmp/build/80754af9/jupyter_console_1616615302928/work
+jupyter-core==4.9.2
+jupyter-packaging==0.10.6
+jupyter-server==1.13.1
+jupyterlab==3.2.9
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server==2.10.3
+jupyterlab-widgets==1.0.2
+keras==2.6.0
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+kiwisolver==1.3.1
+KNN-CUDA @ https://github.com/unlimblue/KNN_CUDA/releases/download/0.2/KNN_CUDA-0.2-py3-none-any.whl
+lmdb==1.3.0
+Markdown==3.3.6
+MarkupSafe==1.1.1
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1613407855456/work
+mistune==0.8.4
+mkl-fft==1.3.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+msgpack==1.0.3
+msgpack-numpy==0.4.7.1
+nbclassic==0.3.5
+nbclient==0.5.9
+nbconvert @ file:///tmp/build/80754af9/nbconvert_1601914804165/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1602783287752/work
+nest-asyncio==1.5.4
+notebook==6.4.8
+numpy==1.19.5
+oauthlib==3.2.0
+olefile==0.46
+omegaconf==1.4.1
+open3d==0.15.2
+opt-einsum==3.3.0
+packaging==20.4
+pandas==1.1.5
+pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120937332/work
+parso==0.7.1
+pexpect==4.7.0
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.4.0
+pkginfo==1.5.0.1
+plyfile==0.7.4
+pointnet2-ops @ file:///home/cc/%E4%B8%8B%E8%BD%BD/dgcnn.pytorch-master/pointnet2_ops_lib
+prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
+prompt-toolkit==3.0.28
+protobuf==3.19.4
+psutil==5.9.0
+ptyprocess==0.6.0
+pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
+pyasn1-modules==0.2.8
+pycosat==0.6.3
+pycparser==2.19
+Pygments==2.5.2
+PyJWT @ file:///tmp/build/80754af9/pyjwt_1610910629656/work
+pyOpenSSL==19.0.0
+pyparsing==3.0.7
+pyquaternion==0.9.9
+pyrsistent==0.18.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305763431/work
+python-dateutil @ file:///home/ktietz/src/ci/python-dateutil_1611928101742/work
+pytorch-lightning==0.7.1
+pytorch-metric-learning==1.2.0
+pytz==2021.3
+PyYAML==6.0
+pyzmq==22.3.0
+qtconsole @ file:///tmp/build/80754af9/qtconsole_1600870028330/work
+QtPy @ file:///Users/ktietz/demo/mc3/conda-bld/qtpy_1630512172840/work
+requests==2.27.1
+requests-oauthlib==1.3.1
+rsa==4.8
+scikit-learn==0.24.2
+scipy @ file:///tmp/build/80754af9/scipy_1597686625380/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+sniffio==1.2.0
+soupsieve==1.9.5
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.6.2
+tensorflow-estimator==2.6.0
+tensorflow-gpu==2.6.2
+termcolor==1.1.0
+terminado==0.12.1
+testpath==0.6.0
+threadpoolctl==3.0.0
+tomlkit==0.10.0
+torch==1.8.0+cu111
+torchaudio==0.8.0
+torchvision==0.9.0+cu111
+tornado==6.0.4
+tqdm==4.62.3
+traitlets @ file:///tmp/build/80754af9/traitlets_1632746497744/work
+typing-extensions==3.7.4.3
+urllib3==1.26.8
+wcwidth==0.1.7
+webencodings==0.5.1
+websocket-client==1.3.1
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1631818832573/work
+widgetsnbextension==3.5.2
+wrapt==1.12.1
+yacs==0.1.8
+zipp @ file:///tmp/build/80754af9/zipp_1604001098328/work

@@ -1,0 +1,6 @@
+# ninja log v5
+1	22411	1651028251663902404	/home/cc/下载/IAF-Net-main/networks/OP/build/temp.linux-x86_64-3.6/src/group_points_gpu.o	3064befec76b7b28
+1	22501	1651028251663902404	/home/cc/下载/IAF-Net-main/networks/OP/build/temp.linux-x86_64-3.6/src/interpolate_gpu.o	439902434ffe839a
+1	22633	1651028251883900326	/home/cc/下载/IAF-Net-main/networks/OP/build/temp.linux-x86_64-3.6/src/ball_query_gpu.o	12c78b3244b66481
+1	22725	1651028251971899497	/home/cc/下载/IAF-Net-main/networks/OP/build/temp.linux-x86_64-3.6/src/sampling_gpu.o	389a67e20dac7cfa
+0	26982	1651028256355858078	/home/cc/下载/IAF-Net-main/networks/OP/build/temp.linux-x86_64-3.6/src/pointnet2_api.o	15e26e260e956727
