@@ -1,4 +1,4 @@
-# Investigate Indistinguishable Points in Semantic Segmentation of 3D Point Cloud
+# GeoSegNet: Point Cloud Semantic Segmentation via Geometric Encoder-Decoder Modeling
 
 
 
@@ -10,29 +10,6 @@
 
 This repository propose python scripts for point cloud semantic segmentation. The library is coded with PyTorch.
 
-The conference paper is here:
-https://arxiv.org/pdf/2103.10339.pdf?ref=https://githubhelp.com
-
-
-
-
-## Citation
-
-If you use this code in your research, please consider citing:
-(citation will be updated as soon as 3DOR proceedings will be released)
-
-```
-@inproceedings{xu2021investigate,
-  title={Investigate Indistinguishable Points in Semantic Segmentation of 3D Point Cloud},
-  author={Xu, Mingye and Zhou, Zhipeng and Zhang, Junhao and Qiao, Yu},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={4},
-  pages={3047--3055},
-  year={2021}
-}
-```
-
 
 ## Data composition
 The data is placed under the ```./data/s3dis_data ``` directory, as follows
@@ -42,17 +19,12 @@ The data is placed under the ```./data/s3dis_data ``` directory, as follows
 
 ## Platform
 
-The code was tested on Ubuntu 16.04 with Anaconda.
+The code was tested on Ubuntu 20.04 with Anaconda, pytorch3.6, CUDA11.1.
 
 ## Dependencies
 
-- Pytorch
-- Scikit-learn for confusion matrix computation, and efficient neighbors search  
-- TQDM for progress bars
-- PlyFile
-- H5py
+requirements.txt
 
-All these dependencies can be install via conda in an Anaconda environment or via pip.
 
 
 ### Nearest neighbor module
@@ -105,3 +77,4 @@ python s3dis_eval.py --datafolder path_to_data_processed --predfolder pathèto_m
 We include the following PyTorch 3rd-party libraries:
 [1] [ConvPoint] (https://github.com/aboulch/ConvPoint)
 [2] [GSNet] (https://github.com/MingyeXu/GS-Net)
+[3] [IAF-Net] (https://github.com/MingyeXu/IAF-Net)
