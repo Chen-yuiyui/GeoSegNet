@@ -24,19 +24,15 @@ The code was tested on Ubuntu 20.04 with Anaconda, pytorch3.6, CUDA11.1.
 ## Dependencies
 
 * Install dependencies
+ ```pip install -r requirements.txt```
 
-  ::
 
-    pip install -r requirements.txt
 Building only the CUDA kernels
 ----------------------------------
-
-
-::
-
+```
   pip install pointnet2_ops_lib/.
-
-  # Or if you would like to install them directly (this can also be used in a requirements.txt)
+```
+    # Or if you would like to install them directly (this can also be used in a requirements.txt)
 
 
 
@@ -45,7 +41,7 @@ Building only the CUDA kernels
 The ```nearest_neighbors``` directory contains a very small wrapper for [NanoFLANN](https://github.com/jlblancoc/nanoflann) with OpenMP.
 To compile the module:
 ```
-cd nearest_neighbors
+cd \convpoint\knn
 python setup.py install --home="."
 ```
 
@@ -89,5 +85,7 @@ python s3dis_eval.py --datafolder path_to_data_processed --predfolder pathèto_m
 ## Acknowledgement
 We include the following PyTorch 3rd-party libraries:
 [1] [ConvPoint] (https://github.com/aboulch/ConvPoint)
+
 [2] [GSNet] (https://github.com/MingyeXu/GS-Net)
+
 [3] [IAF-Net] (https://github.com/MingyeXu/IAF-Net)
