@@ -95,3 +95,5 @@ We include the following PyTorch 3rd-party libraries:
 [4] [SCF-Net] (https://github.com/leofansq/SCF-Net)
 
 [5] [RandLA-Net] (https://github.com/QingyongHu/RandLA-Net)
+
+[6] [PointMLP] (https://github.com/ma-xu/pointMLP-pytorch)
