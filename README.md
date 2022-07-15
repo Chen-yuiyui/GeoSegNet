@@ -84,8 +84,14 @@ python s3dis_eval.py --datafolder path_to_data_processed --predfolder pathèto_m
 
 ## Acknowledgement
 We include the following PyTorch 3rd-party libraries:
+
+
 [1] [ConvPoint] (https://github.com/aboulch/ConvPoint)
 
 [2] [GSNet] (https://github.com/MingyeXu/GS-Net)
 
 [3] [IAF-Net] (https://github.com/MingyeXu/IAF-Net)
+
+[4] [SCF-Net] (https://github.com/leofansq/SCF-Net)
+
+[5] [RandLA-Net] (https://github.com/QingyongHu/RandLA-Net)
