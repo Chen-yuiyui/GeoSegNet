@@ -1,7 +1,7 @@
 # GeoSegNet: Point Cloud Semantic Segmentation via Geometric Encoder-Decoder Modeling
 
 
-
+It has been published online in ([The Visual Computer]:(https://link.springer.com/article/10.1007/s00371-023-02853-7))
 
 
 
